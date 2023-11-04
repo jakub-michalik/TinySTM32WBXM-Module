@@ -22,6 +22,7 @@ Please adhere to a set of contribution guidelines which you can find [here (link
 ## Useful Links & Resources
 1. Official STM32WB overview: [Link](https://www.st.com/resource/en/product_presentation/microcontrollers_stm32wbxm_wireless-modules_product_overview.pdf)
 2. STM32wb1mmc Datasheet: [Link](https://www.st.com/resource/en/datasheet/stm32wb1mmc.pdf)
+3. STMod+ interface specification: [Link](https://www.st.com/resource/en/technical_note/tn1238-stmod-interface-specification-stmicroelectronics.pdf)
 
 ## Disclaimer
 This repository is for educational purpose and its use is subject to personal discretion. 
