@@ -20,8 +20,8 @@ We welcome contributions from the community. If you're interested in enhancing t
 Please adhere to a set of contribution guidelines which you can find [here (link to the guidelines)].
 
 ## Useful Links & Resources
-1. Official STM32WB documentation: [Link](http://www.st.com/)
-2. STM32WBXM Datasheet: [Link](http://www.st.com/)
+1. Official STM32WB overview: [Link](https://www.st.com/resource/en/product_presentation/microcontrollers_stm32wbxm_wireless-modules_product_overview.pdf)
+2. STM32wb1mmc Datasheet: [Link](https://www.st.com/resource/en/datasheet/stm32wb1mmc.pdf)
 
 ## Disclaimer
 This repository is for educational purpose and its use is subject to personal discretion. 
