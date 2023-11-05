@@ -1,4 +1,4 @@
-# TinySTM32WBXM-Module
+# TinySTM32WBXM-Modul
 
 ## Overview
 Welcome to the TinySTM32WBXM-Module repository. This context serves as a development platform for our compact and general-purpose board/module that utilizes STM32WBXM wireless microcontroller. This project caters to the interests of inventors, enthusiasts, and developers inclined towards wireless microcontroller systems. 
